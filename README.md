@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Android Development**
 
-- 🌱 I’m currently learning **Spark , Tensorflow**
+- 🌱 I’m currently learning **Spark , Data Lake**
 
 - 👯 I’m looking to collaborate on **Data Science Projects**
 
