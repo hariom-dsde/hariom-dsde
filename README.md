@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hariom-gupta-3b38421b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hariom-gupta-3b38421b8" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:30366720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:30366720" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/users/30366720/hariom-dsde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:30366720" height="30" width="40" /></a>
 <a href="https://kaggle.com/hariomgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hariomgupta" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_om_gupta.08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_om_gupta.08" height="30" width="40" /></a>
 </p>
