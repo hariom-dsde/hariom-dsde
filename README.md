@@ -19,7 +19,7 @@
 
 - 📄 Google Dev Profile [https://g.dev/hariom-dsde](https://g.dev/hariom-dsde)
 
-- ⚡ What else i am , **When I am not coding , I am a writer .**
+- ⚡ What else i am , **Well When I am not coding , I am a writer .**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
