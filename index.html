@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hariom Gupta - Portfolio</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-color: linear-gradient(135deg, #2b5876, #4e4376);
+      --text-color: white;
+      --accent-color: #ccc;
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Roboto', sans-serif;
+    }
+
+    body {
+      background: var(--bg-color);
+      color: var(--text-color);
+      padding: 20px;
+      overflow-x: hidden;
+    }
+
+    /* Intro animation */
+    .intro {
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: var(--bg-color);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      flex-direction: row;
+      gap: 10px;
+      animation: fadeOut 2s ease forwards;
+      animation-delay: 3s;
+    }
+
+    .intro span {
+      font-size: 2.5em;
+      opacity: 0;
+      animation: floatIn 1s ease forwards;
+    }
+
+    .intro span:nth-child(1) { animation-delay: 0.3s; }
+    .intro span:nth-child(2) { animation-delay: 0.6s; }
+    .intro span:nth-child(3) { animation-delay: 0.9s; }
+    .intro span:nth-child(4) { animation-delay: 1.2s; }
+
+    @keyframes floatIn {
+      from {
+        transform: translateY(-40px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    @keyframes fadeOut {
+      to {
+        opacity: 0;
+        visibility: hidden;
+      }
+    }
+
+    .content {
+      opacity: 0;
+      animation: fadeInMain 1s ease forwards;
+      animation-delay: 3.2s;
+    }
+
+    @keyframes fadeInMain {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+
+    h1 {
+      font-size: 3em;
+    }
+
+    h3 {
+      font-weight: 300;
+      color: var(--accent-color);
+    }
+
+    .section {
+      margin: 30px 0;
+      animation: fadeInUp 1s ease-in-out;
+    }
+
+    .social-links a {
+      margin-right: 15px;
+      display: inline-block;
+      transition: transform 0.3s ease;
+    }
+
+    .social-links a:hover {
+      transform: scale(1.2);
+    }
+
+    .list {
+      margin: 10px 0;
+    }
+
+    .languages {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 15px;
+    }
+
+    .languages img {
+      width: 40px;
+      height: 40px;
+      transition: transform 0.3s ease;
+    }
+
+    .languages img:hover {
+      transform: rotate(10deg) scale(1.1);
+    }
+
+    @keyframes fadeInUp {
+      from {
+        transform: translateY(30px);
+        opacity: 0;
+      }
+      to {
+        transform: translateY(0);
+        opacity: 1;
+      }
+    }
+
+    @media (max-width: 600px) {
+      h1 {
+        font-size: 2em;
+      }
+      .languages {
+        justify-content: center;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Intro animation -->
+  <div class="intro">
+    <span>Hi</span>
+    <span>I'm</span>
+    <span>Hariom</span>
+    <span>Gupta</span>
+  </div>
+
+  <!-- Main content -->
+  <div class="content">
+    <header>
+      <h1>Hi 👋, I'm Hariom Gupta</h1>
+      <h3>Developer & Data Scientist</h3>
+    </header>
+
+    <section class="section">
+      <h3>Connect with me:</h3>
+      <div class="social-links">
+        <a href="https://linkedin.com/in/hariom-gupta-3b38421b8" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"></a>
+        <a href="https://stackoverflow.com/users/30366720/hariom-dsde" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30"></a>
+        <a href="https://kaggle.com/hariomgupta" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30"></a>
+        <a href="https://instagram.com/mr_om_gupta.08" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"></a>
+      </div>
+    </section>
+
+    <section class="section">
+      <h3>About Me</h3>
+      <ul class="list">
+        <li>🔭 I’m currently working on Android Development</li>
+        <li>🌱 I’m currently learning Spark, Data Lake</li>
+        <li>👯 Looking to collaborate on Data Science Projects</li>
+        <li>👨‍💻 <a href="https://www.datascienceportfol.io/Hariom_Gupta" target="_blank">Portfolio</a></li>
+        <li>📝 <a href="https://codebhasha.blogspot.com" target="_blank">Blog</a></li>
+        <li>💬 Ask me about Data Science, Machine Learning</li>
+        <li>📫 Reach me at guptaom244@gmail.com</li>
+        <li>📄 <a href="https://g.dev/hariom-dsde" target="_blank">Google Developer Profile</a></li>
+        <li>⚡ When I’m not coding, I’m writing.</li>
+      </ul>
+    </section>
+
+    <section class="section">
+      <h3>Languages and Tools:</h3>
+      <div class="languages">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
+        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop">
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux">
+        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn">
+        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn">
+      </div>
+    </section>
+  </div>
+</body>
+
+</html>
