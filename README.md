@@ -14,7 +14,7 @@
 <a href="https://instagram.com/mr_om_gupta.08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_om_gupta.08" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **Data Analutics Ftramework**
+- 🔭 I’m currently working on **Data Analytics Ftramework**
 
 - 🌱 I’m currently learning **Spark,FireBase,Data Lake**
 
