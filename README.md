@@ -2,13 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:0f2a2f,70:123c69,100:1f6feb&height=230&section=header&text=HARIOM%20GUPTA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20BIG%20DATA%20%7C%20AI&descAlignY=59&descSize=16&descColor=9ecbff" width="100%" alt="Hariom Gupta header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0b3d2e,60:123c69,100:1f6feb&height=230&section=header&text=HARIOM%20GUPTA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DATA%20SCIENCE%20%7C%20MACHINE%20LEARNING%20%7C%20BIG%20DATA%20%7C%20AI&descAlignY=59&descSize=16&descColor=9ecbff" width="100%" alt="Hariom Gupta header"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=800&color=58A6FF&center=true&vCenter=true&repeat=true&width=950&lines=%3E+Initializing+Data+Science+Workspace...;%3E+Loading+Python+%2B+SQL+Modules...;%3E+Connecting+to+Apache+Spark...;%3E+Training+Machine+Learning+Models...;%3E+Processing+Big+Data+Pipelines...;%3E+Exploring+Generative+AI...;%3E+Turning+Messy+Data+Into+Useful+Insights...;%3E+SYSTEM+STATUS%3A+ONLINE" alt="Animated data science introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=950&lines=%3E+Initializing+Data+Science+Workspace...;%3E+Loading+Python+%2B+SQL+Modules...;%3E+Connecting+to+Apache+Spark...;%3E+Training+Machine+Learning+Models...;%3E+Processing+Big+Data+Pipelines...;%3E+Exploring+Generative+AI...;%3E+Turning+Messy+Data+Into+Useful+Insights...;%3E+SYSTEM+STATUS%3A+ONLINE" alt="Animated introduction"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1700&pause=350&color=39D353&center=true&vCenter=true&repeat=true&width=860&lines=01001000+01000001+01010010+01001001+01001111+01001101;DATA+%E2%86%92+FEATURES+%E2%86%92+MODELS+%E2%86%92+INSIGHTS;PYTHON+%7C+SQL+%7C+SPARK+%7C+ML+%7C+AI;BUILD+%E2%86%92+LEARN+%E2%86%92+DEBUG+%E2%86%92+IMPROVE" alt="Animated data stream"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=1100&pause=220&color=39D353&center=true&vCenter=true&repeat=true&width=900&lines=01001000+01000001+01010010+01001001+01001111+01001101;DATA+%E2%86%92+FEATURES+%E2%86%92+MODELS+%E2%86%92+INSIGHTS;PYTHON+%7C+SQL+%7C+SPARK+%7C+ML+%7C+AI;BUILD+%E2%86%92+LEARN+%E2%86%92+DEBUG+%E2%86%92+IMPROVE;%5BSYSTEM%5D+READY+FOR+THE+NEXT+EXPERIMENT" alt="Animated data stream"/>
 
 <br><br>
 
@@ -18,7 +18,7 @@
 
 </div>
 
-system_profile
+SYSTEM PROFILE
 
 name: Hariom Gupta
 role: Data Scientist / ML Engineer
@@ -36,11 +36,11 @@ mission: turning raw data into useful intelligence
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1800&pause=500&color=79C0FF&center=true&vCenter=true&repeat=true&width=900&lines=Data+Scientist+%E2%86%92+finding+signal+in+noise;ML+Engineer+%E2%86%92+building+models+that+learn;Big+Data+%E2%86%92+scaling+beyond+one+machine;AI+%E2%86%92+turning+ideas+into+intelligent+systems" alt="Animated roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1500&pause=450&color=79C0FF&center=true&vCenter=true&repeat=true&width=900&lines=Data+Scientist+%E2%86%92+finding+signal+in+noise;ML+Engineer+%E2%86%92+building+models+that+learn;Big+Data+%E2%86%92+scaling+beyond+one+machine;AI+%E2%86%92+turning+ideas+into+intelligent+systems" alt="Animated roles"/>
 
 </div>
 
-about_me
+ABOUT ME
 
 🔭 I’m currently working on Data Science, Machine Learning & AI projects
 
@@ -54,7 +54,7 @@ about_me
 
 ⚡ Fun fact: When I'm not coding, I'm a writer.
 
-connect
+CONNECT
 
 <div align="center">
 
@@ -78,9 +78,7 @@ connect
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
-</div>
-
-<div align="center">
+<br><br>
 
 <a href="https://www.datascienceportfol.io/Hariom_Gupta">
   <img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
@@ -100,7 +98,7 @@ TECH STACK
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1400&pause=350&color=A5D6FF&center=true&vCenter=true&repeat=true&width=850&lines=%5B01%5D+Languages+loaded;%5B02%5D+Data+Science+libraries+loaded;%5B03%5D+ML+%26+AI+frameworks+loaded;%5B04%5D+Big+Data+engine+loaded;%5B05%5D+Databases+connected;%5B06%5D+Developer+tools+ready" alt="Animated tech stack loader"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1200&pause=250&color=A5D6FF&center=true&vCenter=true&repeat=true&width=850&lines=%5B01%5D+Languages+loaded;%5B02%5D+Data+Science+libraries+loaded;%5B03%5D+ML+%26+AI+frameworks+loaded;%5B04%5D+Big+Data+engine+loaded;%5B05%5D+Databases+connected;%5B06%5D+Developer+tools+ready" alt="Animated tech stack loader"/>
 
 </div>
 
@@ -177,6 +175,18 @@ Tools
 
 </div>
 
+AI / ML ENGINE
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=950&pause=220&color=FF7B72&center=true&vCenter=true&repeat=true&width=940&lines=%5BMODEL%5D+initializing+weights...;%5BDATA%5D+cleaning+%2B+feature+engineering...;%5BTRAIN%5D+optimizing+loss+function...;%5BEVAL%5D+checking+precision+%2F+recall+%2F+f1...;%5BDEPLOY%5D+inference+pipeline+online;%5BAI%5D+ready+for+prediction" alt="Animated AI ML engine"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&duration=700&pause=160&color=D2A8FF&center=true&vCenter=true&repeat=true&width=900&lines=INPUT+%E2%86%92+PREPROCESS+%E2%86%92+EMBED+%E2%86%92+INFER+%E2%86%92+OUTPUT;FEATURES+%E2%86%92+MODEL+%E2%86%92+PREDICTION;LOSS+%E2%86%93+ACCURACY+%E2%86%91+ITERATION+%E2%86%91" alt="Animated ML flow"/>
+
+</div>
+
 DATA PIPELINE
 
 RAW DATA
@@ -203,7 +213,7 @@ RAW DATA
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=1300&pause=450&color=3FB950&center=true&vCenter=true&repeat=true&width=900&lines=RAW+DATA+%E2%86%92+KAFKA;KAFKA+%E2%86%92+SPARK;SPARK+%E2%86%92+ML+MODEL;ML+MODEL+%E2%86%92+INSIGHTS;%E2%9C%93+PIPELINE+HEALTH%3A+ONLINE" alt="Animated data pipeline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=850&pause=220&color=3FB950&center=true&vCenter=true&repeat=true&width=900&lines=RAW+DATA+%E2%86%92+KAFKA;KAFKA+%E2%86%92+SPARK;SPARK+%E2%86%92+ML+MODEL;ML+MODEL+%E2%86%92+INSIGHTS;%E2%9C%93+PIPELINE+HEALTH%3A+ONLINE" alt="Animated data pipeline"/>
 
 </div>
 
@@ -223,27 +233,15 @@ hariom@datasystem:~$ cat goals.txt
 
 hariom@datasystem:~$ _
 
-GITHUB ANALYTICS
+BIG DATA STREAM
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=hariom-dsde&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&cache_seconds=86400" alt="Hariom Gupta GitHub stats"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=650&pause=120&color=F2CC60&center=true&vCenter=true&repeat=true&width=950&lines=%5BKAFKA%5D+event_0001+%E2%86%92+topic%3Aanalytics;%5BKAFKA%5D+event_0002+%E2%86%92+topic%3Aanalytics;%5BSPARK%5D+microbatch_001+processed;%5BSPARK%5D+microbatch_002+processed;%5BHDFS%5D+block+replication+healthy;%5BPIPELINE%5D+streaming+without+interruption" alt="Animated big data stream"/>
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=hariom-dsde&theme=github-dark-blue&hide_border=true" alt="Hariom Gupta GitHub streak"/>
+<br>
 
-</div>
-
-<div align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hariom-dsde&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&cache_seconds=86400" alt="Top languages"/>
-
-</div>
-
-ACTIVITY GRAPH
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hariom-dsde&bg_color=0d1117&color=58a6ff&line=2f81f7&point=ffffff&area=true&area_color=1f6feb&hide_border=true&custom_title=Hariom%20Gupta%20Contribution%20Activity" width="100%" alt="GitHub contribution activity graph"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=15&duration=500&pause=100&color=58A6FF&center=true&vCenter=true&repeat=true&width=950&lines=%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91+30%25+INGESTING;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91+60%25+PROCESSING;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91+80%25+MODELING;%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25+INSIGHTS+READY" alt="Animated pipeline progress"/>
 
 </div>
 
@@ -259,23 +257,15 @@ CONTRIBUTION SNAKE
 
 </div>
 
-ACHIEVEMENTS
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hariom-dsde&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=7" alt="GitHub profile trophies"/>
-
-</div>
-
 LIVE TERMINAL
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2200&pause=700&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=160&lines=hariom%40datasystem%3A~%24+python+train_model.py;Loading+dataset...;Training+model...;Evaluating+performance...;%5BSUCCESS%5D+Model+pipeline+completed.;hariom%40datasystem%3A~%24+spark-submit+pipeline.py;%5BSUCCESS%5D+Spark+pipeline+online." alt="Animated terminal"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=500&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=160&lines=hariom%40datasystem%3A~%24+python+train_model.py;Loading+dataset...;Training+model...;Evaluating+performance...;%5BSUCCESS%5D+Model+pipeline+completed.;hariom%40datasystem%3A~%24+spark-submit+pipeline.py;%5BSUCCESS%5D+Spark+pipeline+online." alt="Animated terminal"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=900&pause=250&color=F2CC60&center=true&vCenter=true&repeat=true&width=900&lines=%5B%23%23%23%23%23%23%23%23%23%23--------------------%5D+35%25+preprocessing;%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23------%5D+75%25+training;%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+100%25+complete;%5BSUCCESS%5D+inference+engine+ready" alt="Animated model training progress"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=650&pause=120&color=F2CC60&center=true&vCenter=true&repeat=true&width=900&lines=%5B%23%23%23%23%23%23%23%23%23%23--------------------%5D+35%25+preprocessing;%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23------%5D+75%25+training;%5B%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%23%5D+100%25+complete;%5BSUCCESS%5D+inference+engine+ready" alt="Animated model training progress"/>
 
 </div>
 
@@ -313,11 +303,15 @@ SYSTEM STATUS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1300&pause=500&color=3FB950&center=true&vCenter=true&repeat=true&width=760&lines=%5BOK%5D+Python+runtime;%5BOK%5D+Spark+cluster;%5BOK%5D+ML+pipeline;%5BOK%5D+Data+stream;%5BOK%5D+Learning+mode;%5BSYSTEM%5D+All+services+operational" alt="Animated system checks"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=900&pause=180&color=3FB950&center=true&vCenter=true&repeat=true&width=800&lines=%5BOK%5D+Python+runtime;%5BOK%5D+Spark+cluster;%5BOK%5D+ML+pipeline;%5BOK%5D+Data+stream;%5BOK%5D+Learning+mode;%5BSYSTEM%5D+All+services+operational" alt="Animated system checks"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1000&color=8B949E&center=true&vCenter=true&repeat=true&width=760&lines=%3E+Thanks+for+visiting+my+profile.;%3E+Keep+learning.+Keep+building.;%3E+See+you+in+the+next+commit...;%3E+connection+terminated_" alt="Animated goodbye message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=500&pause=120&color=BC8CFF&center=true&vCenter=true&repeat=true&width=900&lines=10110010+01101001+11001010+00110101;01010111+11010010+00101101+10101110;NEURAL+LINK+%3A+ACTIVE;MODEL+CORE+%3A+STABLE;DATA+MATRIX+%3A+ONLINE" alt="Animated matrix status"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=760&lines=%3E+Thanks+for+visiting+my+profile.;%3E+Keep+learning.+Keep+building.;%3E+See+you+in+the+next+commit...;%3E+connection+terminated_" alt="Animated goodbye message"/>
 
 <br>
 
