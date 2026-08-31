@@ -30,6 +30,7 @@ focus:
   - Big Data Analytics
   - PySpark
   - Generative AI
+  - LLM & RAG
 
 status: building | learning | experimenting
 mission: turning raw data into useful intelligence
