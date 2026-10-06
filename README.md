@@ -18,23 +18,6 @@
 
 </div>
 
-SYSTEM PROFILE
-
-name: Hariom Gupta
-role: Data Scientist / ML Engineer
-
-focus:
-  - Data Science
-  - Machine Learning
-  - Artificial Intelligence
-  - Big Data Analytics
-  - PySpark
-  - Generative AI
-  - LLM & RAG
-
-status: building | learning | experimenting
-mission: turning raw data into useful intelligence
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=1500&pause=450&color=79C0FF&center=true&vCenter=true&repeat=true&width=900&lines=Data+Scientist+%E2%86%92+finding+signal+in+noise;ML+Engineer+%E2%86%92+building+models+that+learn;Big+Data+%E2%86%92+scaling+beyond+one+machine;AI+%E2%86%92+turning+ideas+into+intelligent+systems" alt="Animated roles"/>
