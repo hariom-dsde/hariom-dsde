@@ -41,20 +41,6 @@ mission: turning raw data into useful intelligence
 
 </div>
 
-ABOUT ME
-
-🔭 I’m currently working on Data Science, Machine Learning & AI projects
-
-👯 I’m looking to collaborate on Data Analytics, ML, AI & Big Data projects
-
-🤝 I’m looking for help with production-ready ML systems and open-source projects
-
-🌱 I’m currently learning PySpark, Big Data, Deep Learning & Generative AI
-
-💬 Ask me about Python, SQL, Data Analysis, Machine Learning, Spark & Big Data
-
-⚡ Fun fact: When I'm not coding, I'm a writer.
-
 CONNECT
 
 <div align="center">
@@ -94,24 +80,3 @@ CONNECT
 </a>
 
 </div>
-
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=900&pause=180&color=3FB950&center=true&vCenter=true&repeat=true&width=800&lines=%5BOK%5D+Python+runtime;%5BOK%5D+Spark+cluster;%5BOK%5D+ML+pipeline;%5BOK%5D+Data+stream;%5BOK%5D+Learning+mode;%5BSYSTEM%5D+All+services+operational" alt="Animated system checks"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=500&pause=120&color=BC8CFF&center=true&vCenter=true&repeat=true&width=900&lines=10110010+01101001+11001010+00110101;01010111+11010010+00101101+10101110;NEURAL+LINK+%3A+ACTIVE;MODEL+CORE+%3A+STABLE;DATA+MATRIX+%3A+ONLINE" alt="Animated matrix status"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=760&lines=%3E+Thanks+for+visiting+my+profile.;%3E+Keep+learning.+Keep+building.;%3E+See+you+in+the+next+commit...;%3E+connection+terminated_" alt="Animated goodbye message"/>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:0f2a2f,100:0d1117&height=110&section=footer" width="100%" alt="Footer"/>
-
-</div>
-
-<!-- ===================== END PROFILE ===================== -->
